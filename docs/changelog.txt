@@ -1,0 +1,12 @@
+/* Changelog - Thème Basic par kris (http://www.xoofoo.org) */
+
+1.2	- Mise à jour pour Blogotext 2.0.2.0
+
+1.1	- Ajout d'un titre dans le bloc du calendrier
+	- Ajout tag lang dans la balise html
+
+1.0	- Travail initial basé sur le thème Default-gravatar
+
+
+/* Crédits */
+- Timo van Neerden (http://lehollandaisvolant.net/blogotext/fr/)

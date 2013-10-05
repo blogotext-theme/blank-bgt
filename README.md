@@ -1,4 +1,4 @@
-blank-bgt
-=========
+blank
+=====
 
-blank theme for blogotext
+Theme blank for Blogotext
